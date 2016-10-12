@@ -1,0 +1,6 @@
+C:\Users\evan.pena\Documents\Visual Studio 2013\Projects\PowerShellCplLoader\PowerShellCplLoader\obj\Debug\PowerShellCplLoader.csprojResolveAssemblyReference.cache
+C:\Users\evan.pena\Documents\Visual Studio 2013\Projects\PowerShellCplLoader\PowerShellCplLoader\bin\Debug\PowerShellCplLoader.dll
+C:\Users\evan.pena\Documents\Visual Studio 2013\Projects\PowerShellCplLoader\PowerShellCplLoader\bin\Debug\PowerShellCplLoader.pdb
+C:\Users\evan.pena\Documents\Visual Studio 2013\Projects\PowerShellCplLoader\PowerShellCplLoader\bin\Debug\System.Management.Automation.dll
+C:\Users\evan.pena\Documents\Visual Studio 2013\Projects\PowerShellCplLoader\PowerShellCplLoader\obj\Debug\PowerShellCplLoader.dll
+C:\Users\evan.pena\Documents\Visual Studio 2013\Projects\PowerShellCplLoader\PowerShellCplLoader\obj\Debug\PowerShellCplLoader.pdb
